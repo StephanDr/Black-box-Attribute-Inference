@@ -33,5 +33,5 @@ Technical reports, experimental results, and reproducible PyTorch implementation
 
 #### Author & Contact
 
-**Stefanos (Stephan) Drepenteris** — School of Electrical and Computer Engineering, National Technical University of Athens (NTUA)
+**Stefanos (Stephan) Drepenteris** | School of Electrical and Computer Engineering, National Technical University of Athens (NTUA)
 Email: el22123@mail.ntua.gr | stephandrepenteris@gmail.com
