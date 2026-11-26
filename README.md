@@ -18,7 +18,7 @@ Technical reports, experimental results, and reproducible PyTorch implementation
 
 * **Topological Surrogacy & Prior Learning:** Trained a differentiable surrogate via first-order Jacobian matching over ε-perturbed QMC bounds alongside a **1-Lipschitz Conditional WGAN-GP** with latent feature matching and homoscedastic loss balancing.
 * **Test-Time Gradient Inversion:** Achieved strong variance capture on causal attributes (**R² = 0.53 ID / 0.47 OOD**), while characterizing why non-injective mappings cause low-signal behavioral channels to saturate despite global Earth Mover's Distance convergence.
-* **Stochastic Smoothing & Open Direction:** Observed that mild boundary perturbations (**ε ∈ (0,0.2]**) act as implicit adversarial regularization, spiking recovery up to **R² = 0.84 OOD**. Currently investigating unsupervised, validation-free geometric discriminants to isolate well-conditioned surrogates without ground-truth leakage.
+* **Stochastic Smoothing & Open Direction:** Observed that mild boundary perturbations (**ε ∈ (0,0.25]**) act as implicit adversarial regularization, spiking recovery up to **R² = 0.84 OOD**. Currently investigating unsupervised, validation-free geometric discriminants to isolate well-conditioned surrogates without ground-truth leakage.
 
 #### Kaggle Dataset AI Impact on Students [https://www.kaggle.com/datasets/laveshjadon/ai-impact-on-students]
 Preliminary Benchmark (dataset selected for its cleanly separable causal vs non injective behavioral features)
