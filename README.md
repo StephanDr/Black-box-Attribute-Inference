@@ -21,6 +21,8 @@ Technical reports, experimental results, and reproducible PyTorch implementation
 * **Stochastic Smoothing & Open Direction:** Observed that mild boundary perturbations (**ε ∈ (0,0.2]**) act as implicit adversarial regularization, spiking recovery up to **R² = 0.84 OOD**. Currently investigating unsupervised, validation-free geometric discriminants to isolate well-conditioned surrogates without ground-truth leakage.
 
 #### Kaggle Dataset AI Impact on Students [https://www.kaggle.com/datasets/laveshjadon/ai-impact-on-students]
+Preliminary Benchmark (dataset selected for its cleanly separable causal vs non injective behavioral features)
+After finalizing pipeline will test it on standard tabular privacy benchmarks (z.B. UCI Adult, ACS Folktables)
 
 #### Key Preliminary Figures
 
